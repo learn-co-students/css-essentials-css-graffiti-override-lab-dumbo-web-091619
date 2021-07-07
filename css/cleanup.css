@@ -1,1 +1,44 @@
 /* write your override styles here */
+
+<<<<<<< HEAD
+/*#wall .tag-1,*/
+/*#tag-2,*/
+/*#tag-3,*/
+/*.parent #tag-4,*/
+/*.parent #tag-5,*/
+/*.parent #tag-6,*/
+/*.parent #tag-7 {*/
+/*  display: none;*/
+/*}*/
+
+#wall .tag-1 {
+  display: none;
+}
+
+#wall #tag-2 {
+  display: none;
+}
+
+
+#wall #tag-3 {
+  display: none;
+}
+
+
+#wall .tag-1 {
+  display: none;
+}
+
+
+
+/*=======*/
+/*#wall .tag-1 {*/
+/*  display: none;*/
+/*}*/
+
+/*.tag-1 {*/
+/*  background: url(../images/tag-1.png) no-repeat;*/
+/*  z-index: 7;*/
+/*  display: block;*/
+/*}*/
+/*>>>>>>> c8ad9ce68fdeec65d963a286a091d2da8a3063bd*/
